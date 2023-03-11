@@ -7,7 +7,7 @@
 📅 Kurs __10 TEMMUZ 2023 PAZARTESİ__ günü başlayacaktır. <br><br>
 ⏰ Dersler __Pazartesi, Çarşamba ve Cuma__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir. <br><br>
-💰️ Programın toplam ücreti **11.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **10.000** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
+💰️ Programın toplam ücreti **14.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **12.500** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
 ℹ️   Kursta __Modern C++__ anlatılmaktadır. _C++11_, _C++14_ ve _C++17_ standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 
 ⚠Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
