@@ -17,5 +17,5 @@
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEkde6qrzguHdN7uGngFhIpr2J3aDLSdg5O)
 
-![kurs tanıtım görseli](https://github.com/necatiergin/OCAK_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/kurs_gorsel.jpg)
+
 
