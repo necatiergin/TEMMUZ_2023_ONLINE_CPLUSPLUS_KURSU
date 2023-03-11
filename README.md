@@ -4,7 +4,7 @@
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br><br>
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
-📅 Kurs __09 OCAK 2023 PAZARTESİ__ günü başlayacaktır. <br><br>
+📅 Kurs __10 TEMMUZ 2023 PAZARTESİ__ günü başlayacaktır. <br><br>
 ⏰ Dersler __Pazartesi, Çarşamba ve Cuma__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir. <br><br>
 💰️ Programın toplam ücreti **11.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **10.000** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
