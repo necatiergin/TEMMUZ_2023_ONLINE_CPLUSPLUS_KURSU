@@ -68,5 +68,4 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Türkiye İs Bankası](https://www.isbank.com.tr), 
 [Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
 
-[Necati Ergin aynı zamanda yurt içi ve yurt dışı kurumlara C ve C++ programcılarının işe alınması, onların bilgi ve beceri düzeylerinin değerlendirilmesi koo
-nularında danışmanlık hizmetleri vermektedir.](https://www.necatiergin.com)
+[Necati Ergin aynı zamanda yurt içi ve yurt dışı kurumlara C ve C++ programcılarının işe alınması, onların bilgi ve beceri düzeylerinin değerlendirilmesi konularında danışmanlık hizmetleri vermektedir.](https://www.necatiergin.com)
