@@ -72,6 +72,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Havelsan](https://www.havelsan.com.tr/), 
 [Huawei](https://www.huawei.com/tr/), 
 [Hugin](http://hugin.com.tr/tr/home), 
+[ICterra](https://www.icterra.com/tr/),
 [Ingame Group](https://www.ingamegroup.com/),
 [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), 
 [İsdemir](https://www.isdemir.com.tr/), 
