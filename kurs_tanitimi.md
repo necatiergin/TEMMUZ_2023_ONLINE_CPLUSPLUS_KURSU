@@ -66,6 +66,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
+[Fev Group](https://www.fev.com/en/turkiye.html),
 [Ford-Otosan](https://www.fordotosan.com.tr/tr),
 [Fotoniks](https://www.fotoniks.com.tr/),
 [Gesteknik](http://gesteknik.com/),
