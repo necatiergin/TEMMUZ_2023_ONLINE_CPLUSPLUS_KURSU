@@ -114,7 +114,6 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 ✅  __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. <br>
 ✅ Derslerin izlenmesi için &#128279;__[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. <br>
 ✅ Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.<br>
-✅ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.<br>
 ✅ Eğitim programı ile ilgili tüm araçlar ve kaynaklar program süresince öğrencilerle paylaşılmaktadır.<br>
 ✅ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.<br>
 ✅ Eğitim dili Türkçe’dir. Programlama ve __C++__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir. <br>
