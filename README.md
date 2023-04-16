@@ -19,3 +19,4 @@
 
 
 
+(https://github.com/necatiergin/TEMMUZ_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/cpp_kursu_gorseli.png)
