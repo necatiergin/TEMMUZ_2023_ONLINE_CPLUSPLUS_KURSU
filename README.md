@@ -15,7 +15,7 @@
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/kurs_tanitimi.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
-&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEkde6qrzguHdN7uGngFhIpr2J3aDLSdg5O)
+&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwofuGvpj8vG93ZpzTvWCI_RrgyvEQjmqDW)
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/cpp_kursu_gorseli.png)
 
